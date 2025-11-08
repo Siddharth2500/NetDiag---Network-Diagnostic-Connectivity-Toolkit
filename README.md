@@ -1,4 +1,4 @@
-# 🌐 NetDiag — Network Diagnostic & Connectivity Toolkit
+# 🌐 NetDiag - Network Diagnostic & Connectivity Toolkit
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue.svg?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.120-009688?logo=fastapi)
