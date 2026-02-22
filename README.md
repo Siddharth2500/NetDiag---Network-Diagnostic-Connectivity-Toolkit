@@ -34,7 +34,7 @@ Key Features:
 | **Concurrency**      | Threading            | Run server and tasks simultaneously |
 | **Dev Tools**        | nest_asyncio, pytest | Async support in notebooks & tests |
 
----
+-----
 
 ## 🌐 Architecture
 
