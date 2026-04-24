@@ -21,7 +21,7 @@ Key Features:
 - ⚡ Multi-threaded server support  
 - 🐳 Ready for Docker deployment  
 
-------------------
+--------------------
 ## 🛠️ Tech Stack
 
 | Layer                | Tool/Library          | Why we use it |
